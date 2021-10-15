@@ -1,9 +1,14 @@
 # PHPemoji
+![emoji library for PHP](https://raw.githubusercontent.com/amirshnll/PHPemoji/main/phpemoji.png)
+
 emoji library for PHP
 
+<br />
 
 ## Install
 ```composer require amirshnll/php-pemoji```
+
+<br />
 
 ## Usage
 ### code
@@ -27,11 +32,17 @@ Hello World :smiley: <br />
 I Have Two :eye: s <br />
 PHP is :hearts:
 
+<br />
+
 ## Contributing
 edit `PHPemoji.php` file.
 
+<br />
+
 ## Credits
 `PHPemoji` was originally inspired by [sami2020pro/gmoji](https://github.com/sami2020pro/gmoji) with a goal of being make emoji library PHP.
+
+<br />
 
 ## License
 MIT
