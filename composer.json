@@ -1,0 +1,14 @@
+{
+    "name": "amirshnll/ph-pemoji",
+    "description": "emoji library for PHP.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Amir Shokri",
+            "email": "amirsh.nll@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
